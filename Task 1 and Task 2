@@ -1,0 +1,26 @@
+# Task 1
+
+a = input('Enter the first number:')
+a=float(a)
+b = input('Enter the second number:')
+b=float(b)
+
+add = a+b
+sub = a-b
+mult = a*b
+div = a/b
+
+print('Addition : ', add)
+print('Subtraction : ', sub)
+print('Multiplication : ', mult)
+print('Division : ', div)
+
+# Task 2
+
+a = input('Enter your First Name:\t')
+a=str(a)
+b= input('Enter your Last Name:\t')
+b = str(b)
+
+print('Hello', a, b, '.', 'Welcome to Python Programme.')
+
